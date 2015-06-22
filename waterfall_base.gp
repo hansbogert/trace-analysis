@@ -25,5 +25,6 @@ set style line 7 lt rgb "#e5c494" lw 1 pt 7
 set style line 8 lt rgb "#b3b3b3" lw 1 pt 8
 
 set xlabel "Time (ms)" offset 0,0.5
+set ylabel "Task ID" offset 0,0.5
 set key above
 
