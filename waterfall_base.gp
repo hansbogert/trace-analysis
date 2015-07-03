@@ -14,6 +14,7 @@ set border 3 back linestyle 80 # Remove border on top and right.  These
     # Also, put it in grey; no need for so much emphasis on a border.
 set xtics nomirror
 set ytics nomirror
+set tics textcolor "black"
 
 set style line 1 lt rgb "#fc8d62" lw 1 pt 1
 set style line 2 lt rgb "#8da0cb" lw 1 pt 6
